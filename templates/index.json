@@ -1,42 +1,29 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "1720281474f127a3b2": {
+      "type": "apps",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "presidio_quiz_kit_quiz_icYepN": {
+          "type": "shopify:\/\/apps\/presidio-quiz-kit\/blocks\/quiz\/0b04f315-849a-4507-8339-7be41cc01813",
           "settings": {
-            "heading": "Section to be remove",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "key": "WDVGKbA18c"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "presidio_quiz_kit_quiz_icYepN"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "include_margins": true
       }
     },
     "featured_collection": {
@@ -69,7 +56,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "1720281474f127a3b2",
     "featured_collection"
   ]
 }
