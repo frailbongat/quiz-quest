@@ -1,0 +1,4 @@
+button.image-size-small.active-class > div {
+  border-color: #7e55d8;
+  border-width: 2px;
+}
